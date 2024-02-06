@@ -41,7 +41,7 @@ Enjoy!
 
 ### **Spanish:**
 Este repositorio contiene un proyecto en Unreal Engine 5.
-Usa una maqueta en primera persona creada con el Epic Games Launcher.\
+Usa una maqueta top-down creada con el Epic Games Launcher.\
 Este proyecto muestra cómo crear y usar interfaces en Unreal Engine. También muestra cómo crear estas interfaces en C++ y Blueprint y cómo combinar los dos tipos.
 
 **Cómo Usar?:**\
